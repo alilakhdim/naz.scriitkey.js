@@ -1,0 +1,1 @@
+# naz.scriitkey.js
